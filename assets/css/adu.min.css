@@ -1,0 +1,154 @@
+body#LoginForm{ background-image:url("../img/bg1.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
+
+.form-heading { 
+  padding-top: 150px;
+  text-align: center;
+  color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #5C3E3D none repeat scroll 0 0;
+  border-color: #5C3E3D;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;}
+
+.off-canvas-sidebar[data-color=black]:after,.sidebar[data-color=black]:after{
+    background:#0F0606
+}
+.off-canvas-sidebar[data-color=black] .nav li.active>a,.off-canvas-sidebar[data-color=black] .nav li.active>a i,.sidebar[data-color=black] .nav li.active>a,.sidebar[data-color=black] .nav li.active>a i{
+    color:#5C2222
+}
+.content-header{
+    min-height: auto;
+    max-height:260px;
+    padding-top:80px;
+    padding-bottom:45px;
+    background:#5C3E3D;
+    background:linear-gradient(90deg,#5C2222 0,#332222 60%,#0F0606);
+    position:relative;
+    overflow:hidden
+}
+.content-header .header .title{
+    color:#fff
+}
+.content-header .header .category{
+    max-width:600px;
+    color:hsla(0,0%,100%,.5);
+    margin:0 auto;
+    font-size:13px
+}
+.content-header .header .category a{
+    color:#fff
+}
+.content-header-sm{
+    height:135px
+}
+.content-header-lg{
+    max-height:180px;
+}
+.btn-reddark{
+    color:#fff;
+    background-color:#5C3E3D;
+    border-color:#5C3E3D
+}
+.btn-reddark:hover{
+    color:#fff;
+    background-color:#895C5B;
+    border-color:#1d2124
+}
+.btn-delete{
+    color:#fff;
+    background-color:#B14934;
+    border-color:#5C3E3D
+}
+.btn-delete:hover{
+    color:#fff;
+    background-color:#C8523A;
+    border-color:#1d2124
+}
+.btn-edit{
+    color:#fff;
+    background-color:#387693;
+    border-color:#5C3E3D
+}
+.btn-edit:hover{
+    color:#fff;
+    background-color:#4693B8;
+    border-color:#1d2124
+}
+
+td{
+  border-right: 1px solid #D3D3D3;
+}
+input.form-control.f50{
+  max-width: 50%; 
+}
+select.form-control.f50{
+  max-width: 50%; 
+}
+.card{
+  background: rgba(255, 255, 255, 0.8) /* Green background with 30% opacity */
+}
+.card.c1{
+  text-align: center;
+  color: white;
+  background:linear-gradient(90deg,#4C282C 0,#783F45 60%,#655456); 
+}
+.img-prod{
+  padding-left: 1%;
+  max-height: 150px;
+  max-width: 150px;
+  box-shadow: 0px 5px #888888;
+}
+.pdtop-0 {
+  padding-top: 0.5%;
+}
+.pdtop-1 {
+  padding-top: 2.5%;
+}
+.pdleft-1 {
+  padding-left: 1.5%;
+}
